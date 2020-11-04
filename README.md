@@ -1,6 +1,6 @@
 ## Alcohol_ETL
 <!-- ![Images/landingResize.png](Images/landingResize.png) -->
-![Images/Wine_Estate.png](Images/Wine_Estate.png)
+![Images/Wine_Estate.png](/Alcohol_ETL_Project/Resources/Images/Wine)
 
 
 A case study of Extract, Transform, Load
