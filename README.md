@@ -33,9 +33,7 @@ A case study of Extract, Transform, Load
 
   * Rename columns to fit the tables created in the database.
 
-  * Handle any duplicates. **HINT:** some locations have the same name but each license number is unique.
-
-  * Set index to the previously created primary key.
+   * Set index as primary key.
 
 * **Load**
 
@@ -47,5 +45,5 @@ A case study of Extract, Transform, Load
 
 * Confirm successful **Load** by querying database.
 
-* Join the two tables.
+
 
