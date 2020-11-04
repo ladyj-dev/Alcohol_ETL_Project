@@ -1,10 +1,7 @@
 ## Alcohol_ETL
 <!-- ![Images/landingResize.png](Images/landingResize.png) -->
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 385bd5dace141cc91351b575be49be092cdb31a2
 ![Winegift.png](Winegift.png)
 
 A case study of Extract, Transform, Load
@@ -19,10 +16,8 @@ A case study of Extract, Transform, Load
 
   * Be sure to assign a primary key, as Pandas will not be able to do so.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 385bd5dace141cc91351b575be49be092cdb31a2
+
 
 * In Jupyter Notebook perform all ETL.
 
