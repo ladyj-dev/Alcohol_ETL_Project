@@ -1,7 +1,11 @@
 ## Alcohol_ETL
 <!-- ![Images/landingResize.png](Images/landingResize.png) -->
 
+<<<<<<< HEAD
 ![Winegift](Images/Winegift.png)
+=======
+![Winegift.png](Winegift.png)
+>>>>>>> 326d7c1f29ba4abf87d7df3d8772a6a71e748b4f
 
 A case study of Extract, Transform, Load
 
@@ -18,6 +22,8 @@ A case study of Extract, Transform, Load
 ![Images/goodwine.png](Images/goodwine.png)
 
 * In Jupyter Notebook perform all ETL.
+
+![goodwine.png](goodwine.png)
 
 * **Extraction**
 
