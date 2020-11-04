@@ -1,7 +1,7 @@
 ## Alcohol_ETL
 <!-- ![Images/landingResize.png](Images/landingResize.png) -->
-![Images/Wine_Estate.png](/Alcohol_ETL_Project/Resources/Images/Wine)
 
+![Winegift](Images/Winegift.png)
 
 A case study of Extract, Transform, Load
 
@@ -14,6 +14,8 @@ A case study of Extract, Transform, Load
   * A `wine_data_transformed` table that contains the columns `winery, `variety`, `description`, `price`, 'region_1', 'region_2', 'points', value.
 
   * Be sure to assign a primary key, as Pandas will not be able to do so.
+
+![Images/goodwine.png](Images/goodwine.png)
 
 * In Jupyter Notebook perform all ETL.
 
