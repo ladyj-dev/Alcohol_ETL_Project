@@ -1,7 +1,7 @@
 ## Alcohol_ETL
 <!-- ![Images/landingResize.png](Images/landingResize.png) -->
-![goodwine.png](goodwine.png)
 
+![Winegift.png](Winegift.png)
 
 A case study of Extract, Transform, Load
 
@@ -16,6 +16,8 @@ A case study of Extract, Transform, Load
   * Be sure to assign a primary key, as Pandas will not be able to do so.
 
 * In Jupyter Notebook perform all ETL.
+
+![goodwine.png](goodwine.png)
 
 * **Extraction**
 
