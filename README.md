@@ -1,6 +1,10 @@
 ## Alcohol_ETL
 <!-- ![Images/landingResize.png](Images/landingResize.png) -->
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5cf2d510dfbcb6a81261e93b9935515bd2d2ee49
 ![Winegift.png](Winegift.png)
 
 A case study of Extract, Transform, Load
@@ -15,6 +19,11 @@ A case study of Extract, Transform, Load
 
   * Be sure to assign a primary key, as Pandas will not be able to do so.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5cf2d510dfbcb6a81261e93b9935515bd2d2ee49
 
 * In Jupyter Notebook perform all ETL.
 
@@ -30,9 +39,7 @@ A case study of Extract, Transform, Load
 
   * Rename columns to fit the tables created in the database.
 
-  * Handle any duplicates. **HINT:** some locations have the same name but each license number is unique.
-
-  * Set index to the previously created primary key.
+   * Set index as primary key.
 
 * **Load**
 
@@ -44,5 +51,5 @@ A case study of Extract, Transform, Load
 
 * Confirm successful **Load** by querying database.
 
-* Join the two tables.
+
 
